@@ -1,4 +1,5 @@
-# ❤️ Heart Attack Analysis  
+# ![Uploading CoraçaozinhoGIF.gif…]()
+ Heart Attack Analysis  
 ### Exploratory Data Analysis (EDA)
 
 ---
