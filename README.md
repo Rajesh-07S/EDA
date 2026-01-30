@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Overview
+## 📍 Project Overview
 This project focuses on **Exploratory Data Analysis (EDA)** of a heart attack dataset to identify patterns, trends, and relationships among medical attributes that influence heart disease risk.
 
 Using **statistical analysis** and **data visualization**, the project aims to extract meaningful insights that can support early risk detection and healthcare decision-making.
@@ -101,4 +101,8 @@ The insights gained from this project can be used as a foundation for **predicti
 
 ## 👨‍💻 Author
 **Rajesh Raju**
+
+
+![OptimusPrimeоптимуспраймGIF](https://github.com/user-attachments/assets/c6c03ee9-4ad6-4006-a191-ed8b903a0e15)
+
 
