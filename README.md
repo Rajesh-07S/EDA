@@ -1,6 +1,8 @@
 # ![CoraçaozinhoGIF (2)](https://github.com/user-attachments/assets/3f105738-1cdf-4ebc-87d8-8ce8b719e056)
 
- Heart Attack Analysis  
+# Heart Attack Analysis  
+
+
 ### Exploratory Data Analysis (EDA)
 
 ---
@@ -12,7 +14,8 @@ Using **statistical analysis** and **data visualization**, the project aims to e
 
 ---
 
-## 🎯 Objectives
+## ![ForWhatZacGIF](https://github.com/user-attachments/assets/9389d963-461d-4404-a2e4-a220ea423dfa)
+# Objectives
 - Understand the structure and quality of the dataset  
 - Identify important medical features related to heart attacks  
 - Analyze correlations between health parameters  
