@@ -1,4 +1,5 @@
-# ![Uploading CoraçaozinhoGIF.gif…]()
+# ![CoraçaozinhoGIF (2)](https://github.com/user-attachments/assets/3f105738-1cdf-4ebc-87d8-8ce8b719e056)
+
  Heart Attack Analysis  
 ### Exploratory Data Analysis (EDA)
 
